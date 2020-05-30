@@ -1,10 +1,10 @@
 {
-    "name": "yutawhee/sparda-cms-post-module",
+    "name": "wheeposkota/sparda-cms-post-module",
     "type": "laravel-module",
     "description": "",
     "require": {
-        "yutawhee/sparda-cms-core-module": "dev-master",
-        "yutawhee/sparda-cms-taxonomy-module": "dev-master"
+        "wheeposkota/sparda-cms-core-module": "dev-master",
+        "wheeposkota/sparda-cms-taxonomy-module": "dev-master"
     },
     "extra": {
         "laravel": {
